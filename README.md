@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://img.icons8.com/color/96/food-delivery.png" alt="DashRadar" width="80">
+  <img src="readmelogo.png" alt="DashRadar" width="120">
   <br>
   DashRadar
   <br>
